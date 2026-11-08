@@ -1,0 +1,9 @@
+{
+  "parent": "the_one_who_watches:custom/blood_pool",
+  "textures": {
+    "all": "the_one_who_watches:block/bloodpool",
+    "particle": "the_one_who_watches:block/bloodpool",
+    "0": "the_one_who_watches:block/bloodpool"
+  },
+  "render_type": "cutout"
+}

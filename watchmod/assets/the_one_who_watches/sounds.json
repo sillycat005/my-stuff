@@ -1,0 +1,170 @@
+{
+  "whisper1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper_1",
+        "stream": false
+      }
+    ]
+  },
+  "scream1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:scream_1",
+        "stream": false
+      }
+    ]
+  },
+  "scream2": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:scream_2",
+        "stream": false
+      }
+    ]
+  },
+  "stinger1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:stinger_1",
+        "stream": false
+      }
+    ]
+  },
+  "scream3": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:scream_3",
+        "stream": false
+      }
+    ]
+  },
+  "whisper2": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper_2",
+        "stream": false
+      }
+    ]
+  },
+  "scream4": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:scream_4",
+        "stream": false
+      }
+    ]
+  },
+  "scream5": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:scream_5",
+        "stream": false
+      }
+    ]
+  },
+  "jumpscare1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:jumpscare_1",
+        "stream": false
+      }
+    ]
+  },
+  "whisper_i_see_you1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper-i_see_you_1",
+        "stream": false
+      }
+    ]
+  },
+  "whisper_look_behind_you1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper-look_behind_you1",
+        "stream": false
+      }
+    ]
+  },
+  "jumpscare2": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:jumpscare2",
+        "stream": false
+      }
+    ]
+  },
+  "whisper_i_see_you_fowards": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper-i_see_you_fowards",
+        "stream": false
+      }
+    ]
+  },
+  "screaning_in_public_restrooms_prank": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:screaming_in_public_restrooms_prank",
+        "stream": false
+      }
+    ]
+  },
+  "rising_heart_beat": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:rising_heart_beat",
+        "stream": false
+      }
+    ]
+  },
+  "run_whisper": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:run_whisper",
+        "stream": false
+      }
+    ]
+  },
+  "dont_move": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:dont_move",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_whisper1": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:wraith_whisper_1",
+        "stream": false
+      }
+    ]
+  },
+  "blow_out": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:blow_out",
+        "stream": false
+      }
+    ]
+  },
+  "bones_breaking": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:bones_breaking",
+        "stream": false
+      }
+    ]
+  },
+  "whisper_look_behind_you2": {
+    "sounds": [
+      {
+        "name": "the_one_who_watches:whisper-look_behind_you2",
+        "stream": false
+      }
+    ]
+  }
+}

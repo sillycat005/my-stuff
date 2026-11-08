@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "forest",
+  "features": "the_one_who_watches:toww_tree",
+  "step": "surface_structures"
+}

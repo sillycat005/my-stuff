@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="you can do whatever you want with it"
+
+[[mods]]
+modId="the_one_who_watches"
+version="1.4.4"
+displayName="watcher"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="nova"
+description="thismodiscool"
+
+[[dependencies.the_one_who_watches]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.the_one_who_watches]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "the_one_who_watches:scratched_oak_log",
+    "the_one_who_watches:scratched_birch_log",
+    "the_one_who_watches:scratched_spruce_log",
+    "the_one_who_watches:scratched_jungle_log",
+    "the_one_who_watches:scratched_dark_oak_log",
+    "the_one_who_watches:scratched_acacia_log",
+    "the_one_who_watches:scratched_mangrove_log"
+  ]
+}

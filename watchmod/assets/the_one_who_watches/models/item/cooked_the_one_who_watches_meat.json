@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_one_who_watches:item/cooked_the_one_who_watches_meat"
+  }
+}

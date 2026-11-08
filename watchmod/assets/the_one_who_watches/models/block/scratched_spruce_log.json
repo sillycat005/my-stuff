@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_one_who_watches:block/spruce_log_top",
+    "up": "the_one_who_watches:block/spruce_log_top",
+    "north": "the_one_who_watches:block/spruce_log",
+    "east": "the_one_who_watches:block/spruce_log",
+    "south": "the_one_who_watches:block/spruce_log",
+    "west": "the_one_who_watches:block/spruce_log",
+    "particle": "the_one_who_watches:block/spruce_log_top"
+  },
+  "render_type": "solid"
+}

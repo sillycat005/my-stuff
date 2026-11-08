@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "the_one_who_watches:toww_campsite",
+  "step": "surface_structures"
+}
